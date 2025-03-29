@@ -59,14 +59,19 @@ export default function CraterFiLanding() {
       rel="noopener noreferrer"
     >
       <img src="/x-icon-black.svg" alt="X" className="h-6 hover:opacity-80" />
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-      <img src="/telegram-icon.svg" alt="Telegram" className="h-6 hover:opacity-80" />
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-      <img src="/discord-icon.svg" alt="Discord" className="h-6 hover:opacity-80" />
-    </a>
-  </div>
+    <img
+  src="/telegram-icon.svg"
+  alt="Telegram"
+  className="h-6 opacity-50 cursor-not-allowed"
+  title="Telegram group coming soon"
+/>
+  <img
+  src="/discord-icon.svg"
+  alt="Discord"
+  className="h-6 opacity-50 cursor-not-allowed"
+  title="Discord server coming soon"
+/>
+</div>
   <p className="text-white text-lg font-semibold mb-2 mt-4">Join our mission</p>
   <p>
     &copy; {new Date().getFullYear()} CraterFi. All rights reserved.
