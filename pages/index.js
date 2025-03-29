@@ -53,8 +53,12 @@ export default function CraterFiLanding() {
 
    <footer className="text-center text-gray-500 text-sm mt-16">
   <div className="flex justify-center items-center space-x-6 mb-4">
-    <a href="https://x.com/CraterFiToken" target="_blank" rel="noopener noreferrer">
-      <img src="/x-icon.svg" alt="X" className="h-6 hover:opacity-80" />
+    <a
+      href="https://x.com/CraterFiToken"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img src="/x-icon-black.svg" alt="X" className="h-6 hover:opacity-80" />
     </a>
     <a href="#" target="_blank" rel="noopener noreferrer">
       <img src="/telegram-icon.svg" alt="Telegram" className="h-6 hover:opacity-80" />
@@ -63,7 +67,6 @@ export default function CraterFiLanding() {
       <img src="/discord-icon.svg" alt="Discord" className="h-6 hover:opacity-80" />
     </a>
   </div>
-
   <p className="text-white text-lg font-semibold mb-2 mt-4">Join our mission</p>
   <p>
     &copy; {new Date().getFullYear()} CraterFi. All rights reserved.
