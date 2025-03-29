@@ -16,7 +16,7 @@ export default function CraterFiLanding() {
         <div className="bg-gray-900 p-6 rounded-xl border border-gray-700">
           <h2 className="text-2xl font-bold mb-2">🧠 What is CraterFi?</h2>
           <p className="text-gray-300">
-            CraterFi is the first meme coin where you're not just going to the Moon — you're owning it. Built on Solana, powered by degen energy, and designed for believers who want more than just a pump.
+            CraterFi is the first meme coin where you are not just going to the Moon — you're owning it. Built on Solana, powered by degen energy, and designed for believers who want more than just a pump.
           </p>
         </div>
 
