@@ -3,10 +3,11 @@ import Document, { Html, Head, Main, NextScript } from 'next/document';
 class MyDocument extends Document {
   render() {
     return (
-      <Html>
+      <Html lang="en">
         <Head>
           {/* Favicon link */}
           <link rel="icon" href="/favicon.ico" />
+          {/* Add other meta tags, link tags, or scripts here if needed */}
         </Head>
         <body>
           <Main />
@@ -18,3 +19,4 @@ class MyDocument extends Document {
 }
 
 export default MyDocument;
+
