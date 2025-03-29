@@ -31,7 +31,7 @@ export default function CraterFiLanding() {
         <div className="bg-gray-900 p-6 rounded-xl border border-gray-700">
           <h2 className="text-2xl font-bold mb-2">🚀 Roadmap</h2>
           <ul className="list-disc list-inside text-gray-300 space-y-1">
-            <li>Token Launch on Pump.fun</li>
+            <li>Token Launch</li>
             <li>Website + X Growth</li>
             <li>CraterFi Meme Campaign</li>
             <li>Community Building + Telegram</li>
