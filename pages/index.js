@@ -64,7 +64,9 @@ export default function CraterFiLanding() {
     </a>
   </div>
   <p className="text-white text-lg font-semibold mb-2 mt-4">Join our mission</p>
-  &copy; {new Date().getFullYear()} CraterFi. All rights reserved.
+  <p>
+    &copy; {new Date().getFullYear()} CraterFi. All rights reserved.
+  </p>
 </footer>
     </div>
   );
