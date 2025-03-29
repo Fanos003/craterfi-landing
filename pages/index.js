@@ -59,6 +59,7 @@ export default function CraterFiLanding() {
       rel="noopener noreferrer"
     >
       <img src="/x-icon-black.svg" alt="X" className="h-6 hover:opacity-80" />
+    </a>
     <img
   src="/telegram-icon.svg"
   alt="Telegram"
