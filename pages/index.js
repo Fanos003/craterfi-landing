@@ -35,6 +35,7 @@ export default function CraterFiLanding() {
             <li>Website + X Growth</li>
             <li>CraterFi Meme Campaign</li>
             <li>Community Building + Telegram</li>
+            <li>Strategic Partnerships & Brand Alliances</li>
             <li>Craterverse Exploration</li>
           </ul>
         </div>
