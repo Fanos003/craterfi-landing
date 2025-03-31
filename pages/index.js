@@ -60,12 +60,18 @@ export default function CraterFiLanding() {
     >
       <img src="/x-icon-black.svg" alt="X" className="h-6 hover:opacity-80" />
     </a>
-    <img
-  src="/telegram-icon.svg"
-  alt="Telegram"
-  className="h-6 opacity-50 cursor-not-allowed"
-  title="Telegram group coming soon"
-/>
+    <a
+  href="https://t.me/CraterFiOfficial"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="/telegram-icon.svg"
+    alt="Telegram"
+    className="h-6 hover:opacity-80"
+    title="Join our Telegram"
+  />
+</a>
   <img
   src="/discord-icon.svg"
   alt="Discord"
