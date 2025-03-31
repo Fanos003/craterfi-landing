@@ -61,7 +61,7 @@ export default function CraterFiLanding() {
       <img src="/x-icon-black.svg" alt="X" className="h-6 hover:opacity-80" />
     </a>
     <a
-  href="https://t.me/CraterFiOfficial"
+  href="https://t.me/CraterCommunity"
   target="_blank"
   rel="noopener noreferrer"
 >
